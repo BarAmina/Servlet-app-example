@@ -5,6 +5,7 @@ Ce projet permet de comprendre le fonctionnement basique des servlets, les filtr
 
 La structure générale du projet :
 -	src :
+
        -main -->java -->com--> hatim--> app-->  AppServlet.java
                                            --> HelloServlet.java
                                            -->SecurityFilter.java
